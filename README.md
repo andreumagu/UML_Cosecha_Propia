@@ -8,7 +8,7 @@ Debe entregar:
 - Imagen con la solución del ejercicio. (programa a elegir)
 - Si  el ejercicio  se inspira en una página web o bibliografía, debe añadirlo.
 - Debes entregar todo lo que se requiere en un repositorio de github en el que deberéis hacer colaborador.
-- El repositorio debe contener el enunciado, la solución y si se ha conseguido, el código fuente.
+- El repositorio debe contener el enunciado, la solución.
 
 La solución deberá ser expuesta en clase y defendida ante el professor y sus compañeros; para ello podréis hacer uso de diapositivas y un guión.
 
