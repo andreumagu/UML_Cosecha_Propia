@@ -3,7 +3,7 @@
 Escribe un ejercicio de diagramas de clases UML como los que hemos trabajado en clase.
 Debe incluir la solución.
 ### PARTE A OBLIGATORIA.
-Debe entregar:
+Debe entregar: 
 - Enunciado del ejercicio.
 - Imagen con la solución del ejercicio. (programa a elegir)
 - Si  el ejercicio  se inspira en una página web o bibliografía, debe añadirlo.
