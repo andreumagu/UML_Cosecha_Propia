@@ -18,4 +18,4 @@ Si realiza el ejercicio después de la fecha límite,  la calificación este eje
 ### Enunciado
 Estamos desarrollando un sistema de gestión para una tienda online. La tienda vende una variedad de productos, cada uno perteneciente a una categoría específica. Los usuarios pueden ser tanto clientes como trabajadores de la empresa y todos estos pueden realizar pedidos de productos y realizar pagos de estos. Además, el usuario debe poder visualizar el estado de su pedido.
 
-![Diagrama UML](/ComercioOnline.png)
+![Diagrama UML]()
